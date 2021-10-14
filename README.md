@@ -1,0 +1,1 @@
+Andoird laborok hetekre felosztva.

@@ -1,6 +1,6 @@
 data class Question(
     val text : String,
-    val answers : List<String>,
+    val answers : MutableList<String>,
     val correct : String
 )
 {

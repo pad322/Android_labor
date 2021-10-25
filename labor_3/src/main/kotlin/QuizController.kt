@@ -21,6 +21,8 @@ class QuizController (
 
             var i = 1
 
+            it.answers.shuffle();
+
             it.answers.forEach(){
                 print("$i. : ")
                 println(it)
